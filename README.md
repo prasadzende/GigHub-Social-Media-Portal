@@ -1,4 +1,4 @@
-Technology Used: Asp.Net MVC 5, Entity Framework (MSSQL) 
+<b>Technology Used: Asp.Net MVC 5, Entity Framework (MSSQL) </b>
 
 • This is a social media website for Artists and their followers. 
 
@@ -10,3 +10,13 @@ Technology Used: Asp.Net MVC 5, Entity Framework (MSSQL)
 • Followers can see upcoming events and can update status of attending the event. 
 
 <img src="images/gig1.JPG">
+<p></p>
+<img src="images/gig2.JPG">
+<p></p>
+<img src="images/gig3.JPG">
+<p></p>
+<img src="images/gig4.JPG">
+<p></p>
+<img src="images/gig5.JPG">
+<p></p>
+<img src="images/gig6.JPG">
