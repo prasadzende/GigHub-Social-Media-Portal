@@ -9,3 +9,4 @@ Technology Used: Asp.Net MVC 5, Entity Framework (MSSQL)
 
 • Followers can see upcoming events and can update status of attending the event. 
 
+<img src="images/gig1.jpg">
